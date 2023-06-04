@@ -20,8 +20,10 @@
 - 📫 How to reach me **mayankgoswami247@gmail.com**.
 
 - ✔️ If this sound interesting to you, you can follow me on.
+<br/>
 <a href="https://www.linkedin.com/in/mayank-goswami-8909961b9/" target="_blank" rel="noreferrer"> <img src="https://www.keesingtechnologies.com/wp-content/uploads/2018/07/Linkedin-Icon.png" alt="c" width="40" height="40"/> </a>
-
+<br/>
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
