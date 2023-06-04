@@ -27,7 +27,7 @@
 
 <h3 align="left">Coding Journey:</h3>
 <p align="left">
-<a href="https://leetcode.com/Blackcap_Hacker/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="c" width="40" height="40"/></a>  <a href="https://www.hackerrank.com/Blackcap_hacker?hr_r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="c" width="40" height="40"/></a>  <a href="https://www.codewars.com/users/hacker-4-good" target="_blank" rel="noreferrer"> <img src="https://codybonney.com/images/16x9/tags/codewars.png" alt="c" width="60" height="40"/></a>  <a href="https://auth.geeksforgeeks.org/user/mayankgoswami247/" target="_blank" rel="noreferrer"> <img src="https://nihal-priyadarshi.github.io/My_Links/type%201/images/GeeksForGeeks.jpg" alt="c" width="40" height="40"/></a>
+<a href="https://leetcode.com/Blackcap_Hacker/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="c" width="40" height="40"/></a>  <a href="https://www.hackerrank.com/Blackcap_hacker?hr_r=1" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="c" width="40" height="40"/></a>  <a href="https://www.codewars.com/users/hacker-4-good" target="_blank" rel="noreferrer"> <img src="https://codybonney.com/images/16x9/tags/codewars.png" alt="c" width="50" height="40"/></a>  <a href="https://auth.geeksforgeeks.org/user/mayankgoswami247/" target="_blank" rel="noreferrer"> <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210610212340/gfglogo.png" alt="c" width="40" height="40"/></a>
 
 <br/>
 <br/>
