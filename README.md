@@ -32,6 +32,11 @@
 <img src="https://www.codewars.com/users/hacker-4-good/badges/large"/>
 </p>
 
+<h4>Leetcode stats: </h4> 
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Blackcap_Hacker?theme=wtf&font=Acme&ext=heatmap"/>
+</p>
+
 <img  src="./borderseperator.gif">
             
 <h3 align="left">Languages and Tools:</h3>
