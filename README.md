@@ -46,8 +46,13 @@
 
 <img  src="./borderseperator.gif">
 <h3> Github Stats </h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hacker-4-good&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="hacker-4-good" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hacker-4-good&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="hacker-4-good" /></p> -->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hacker-4-good&show_icons=true&theme=tokyonight&locale=en" alt="hacker-4-good" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hacker-4-good&show_icons=true&theme=tokyonight&locale=en" alt="hacker-4-good" /></p> -->
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hacker-4-good&theme=tokyonight" alt="hacker-4-good" /></p>
+
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hacker-4-good&theme=tokyonight" /></p>
+
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hacker-4-good&theme=tokyonight" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hacker-4-good&theme=tokyonight" alt="hacker-4-good" /></p>
