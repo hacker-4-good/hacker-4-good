@@ -34,7 +34,7 @@
 
 <h4>Leetcode stats: </h4> 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Blackcap_Hacker?theme=wtf&font=Acme&ext=heatmap"/>
+<img src="https://leetcode-stats-six.vercel.app/?username=Blackcap_Hacker"/>
 </p>
 
 <img  src="./borderseperator.gif">
