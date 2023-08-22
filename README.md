@@ -51,10 +51,10 @@
 <!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hacker-4-good&show_icons=true&theme=tokyonight&locale=en" alt="hacker-4-good" /></p> -->
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hacker-4-good&theme=tokyonight" alt="hacker-4-good" /></p>
 
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hacker-4-good&theme=tokyonight" /></p>
+<p align="center"><a href="https://quine.sh?utm_source=widgets&utm_campaign=hacker-4-good" target="_blank" rel="noreferrer"><img align="center" src="https://stats.quine.sh/hacker-4-good/github?theme=dark" /></p>
 
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hacker-4-good&theme=tokyonight" /></p>
+<p align="center"><a href="https://quine.sh?utm_source=widgets&utm_campaign=hacker-4-good" target="_blank" rel="noreferrer"><img align="center" src="https://stats.quine.sh/hacker-4-good/dependencies?theme=dark" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hacker-4-good&theme=tokyonight" alt="hacker-4-good" /></p>
+<p align="center"><a href="https://quine.sh?utm_source=widgets&utm_campaign=hacker-4-good" target="_blank" rel="noreferrer"><img align="center" src="https://stats.quine.sh/hacker-4-good/topics-over-time?theme=dark" /></p>
 
-[![hacker-4-good's GitHub | Dependencies](https://stats.quine.sh/hacker-4-good/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hacker-4-good)
+<p align="center"><a href="https://quine.sh?utm_source=widgets&utm_campaign=hacker-4-good" target="_blank" rel="noreferrer"><img align="center" src="https://stats.quine.sh/hacker-4-good/languages-over-time?theme=dark" /></p>
