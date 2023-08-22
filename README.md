@@ -56,3 +56,5 @@
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hacker-4-good&theme=tokyonight" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hacker-4-good&theme=tokyonight" alt="hacker-4-good" /></p>
+
+[![hacker-4-good's GitHub | Dependencies](https://stats.quine.sh/hacker-4-good/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hacker-4-good)
