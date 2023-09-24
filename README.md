@@ -13,7 +13,7 @@
 
 - 👀 My interest is in the field of **Data Science and Machine Learning**.
 
-- 🔭 I’m currently working on **FLET(Flutter + Python) Framework** and **Streamlit Framework** for Projects.
+- 🔭 I’m currently working on **FA(FastAPI)R(ReactJS)M(MongoDB) STACK 🐄** and **Streamlit Framework** for Projects.
 
 - 💻 Currently making project in the field of **computer vision** along with **mediapipe**.
             
