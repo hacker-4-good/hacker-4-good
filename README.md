@@ -58,3 +58,5 @@
 <p align="center"><a href="https://quine.sh?utm_source=widgets&utm_campaign=hacker-4-good" target="_blank" rel="noreferrer"><img align="center" src="https://stats.quine.sh/hacker-4-good/topics-over-time?theme=dark" /></p>
 
 <p align="center"><a href="https://quine.sh?utm_source=widgets&utm_campaign=hacker-4-good" target="_blank" rel="noreferrer"><img align="center" src="https://stats.quine.sh/hacker-4-good/languages-over-time?theme=dark" /></p>
+
+[![An image of @hacker4good's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hacker4good)](https://holopin.io/@hacker4good)
