@@ -9,17 +9,19 @@
 <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/city/scificity.gif" width="350"/>
 <h3> About Me: </h3>
 
-- 👦🏻 I am college student pursuing my Bachelor in **Computer Science Engineering**.
+- 👦🏻 I have recently graduated with a Bachelor of Technology in **Computer Science Engineering**.
 
 - 👀 My interest is in the field of **Data Science and Machine Learning**.
 
-- 🔭 I’m currently working on **FA(FastAPI)R(ReactJS)M(MongoDB) STACK 🐄** and **Streamlit Framework** for Projects.
+- 🔭 I’m currently working on **FastAPI ⚡**, **Django** and **Streamlit Framework** for Projects.
 
-- 💻 Currently making project in the field of **computer vision** along with **mediapipe**.
+- 💻 Currently making project in the field of **Generative AI**, **Retrived Augmented Generation (RAG)**, and **Content Creation Domain**.
             
 - 💺 I also do competitive programming on various platform using **python and C++**.
 
 - 📫 How to reach me **mayankgoswami247@gmail.com**.
+
+- 🕸️ Website -> <a href="https://mayank-goswami-portfolio.netlify.app">Link</a>
 
 <img  src="./borderseperator.gif">
 
